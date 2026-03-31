@@ -37,7 +37,7 @@ Key queries were used to extract insights such as:
 - Product performance analysis  
 - Subscription impact on spending  
 
-(See full queries in `sql/customer_behavior_queries.sql`)
+(See full queries in `customer_behavior_queries.sql`)
 
 ## 🚀 Future Improvements
 

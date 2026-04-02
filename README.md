@@ -20,7 +20,7 @@ This project presents an end-to-end data analytics pipeline to analyze customer 
 ![Dashboard](dashboard.png)
 
 ### Key Insights
-![Insights](key_insights.png)
+![Key Insights](key_insights.png)
 
 ## 🔍 Key Insights
 
